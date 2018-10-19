@@ -121,7 +121,7 @@ int main()
 When chained, the extraction operator will first read data from `cin` to fill `a`, and then read data to fill `b`.
 
 
-C's standard printf and scanf statements can also be used with c++ by importing '<cstdio>' header file.
+C's standard printf and scanf statements can also be used with c++ by importing '<stdio.h>' header file.
 
 
 ## Sources
